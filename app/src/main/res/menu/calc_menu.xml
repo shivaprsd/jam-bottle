@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/toggle_top_bar"
+        android:showAsAction="never"
+        android:title="@string/calc_hide_topbar" />
+    <item
+        android:id="@+id/instruct"
+        android:title="@string/calc_instruct" />
+</menu>

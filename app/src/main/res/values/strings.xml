@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">JAM Bottle</string>
+    <string name="jam_date">February 11, 2018</string>
+    <string name="days_to_go_label">days to go</string>
+    <string name="day_to_go_label">day to go</string>
+    <string name="calc_btn_label">JAM Calculator</string>
+    <string name="mock_btn_label">Mock Test</string>
+    <string name="qp_btn_label">Question Papers</string>
+    <string name="key_btn_label">Answer Keys</string>
+    <string name="calc_hide_topbar">Maximize</string>
+    <string name="calc_show_topbar">Minimize</string>
+    <string name="calc_instruct">Instructions</string>
+    <string name="file_refresh">Refresh</string>
+    <string name="main_about_label">About</string>
+    <string name="website_label">Website</string>
+    <string name="main_about">
+        <b>JAM Bottle</b>
+        \n\nIIT JAM 2018 helper app for Physics students.
+        \n\nMade with &#9829;️ by Shiva.
+        \n\nAll the best for the exam! &#9786;
+    </string>
+
+    <string name="calc_instruct_header">
+        HOW TO USE VIRTUAL SCIENTIFIC CALCULATOR\n<sub>HOW IT WORKS</sub>
+    </string>
+    <string name="calc_instruct_content">
+"EXAMPLE 1: Simple Arithmetic: Simply follow the sequence
+To evaluate: 50 + 45 x 3
+        Enter as follows: 50, +, 45, *, 3, =
+To evaluate: 50 x 45-2
+        Enter as follows: 50, *, 45, -, 2, =
+To evaluate: 25 x (5+5)
+        Enter as follows: 25, *, (, 5, +, 5, ), =
+To enter a negative number: -234 x 89
+        Enter as follows: 234, +/-, *, 89, =
+
+EXAMPLE 2: To evaluate function(value), enter value followed by function
+To evaluate: 2 + log(20) x 5
+        Enter as follows: 20, log, *, 5, +, 2, =
+To evaluate: log(30) x 5 - 7
+        Enter as follows: 30, log,*, 5, -, 7, =
+To evaluate: In(25) x 2 + 5
+        Enter as follows: 25, In, *, 2, +, 5, =
+To evaluate: 5 + In(25) x 2
+        Enter as follows: 25, In, *, 2, +, 5,=
+
+EXAMPLE 3: sin(Degree), cos(Degree), tan(Degree): Select Deg
+To evaluate: sin(45) or cos(45) or tan(45)
+        Enter as follows: 45, sin or cos or tan
+
+To evaluate: tan(45) x 5 + 2
+        Enter as follows: 45, tan, *, 5, +, 2, =
+
+EXAMPLE 4: yroot() value:
+To evaluate: 4<sup><small>th</small></sup> root of 5
+        Enter as follows: 5, y√x, 4, =
+
+EXAMPLE 5:cube() value:
+To evaluate: 56<sup><small>3</small></sup> x 6+8
+        Enter as follows:56, X<sup><small>3</small></sup> , *, 6, +, 8, =
+
+EXAMPLE 6: π value:
+To evaluate: 5 π
+        Enter as follows: 5, *, π
+
+EXAMPLE 7: cuberoot():
+To evaluate: cube root(3)
+        Enter as follows: 3,3√
+
+EXAMPLE 8: square root:
+To evaluate: square root(4)
+        Enter as follows: 4,√
+
+EXAMPLE 9: factorial (n!)
+To evaluate: factorial(5)
+        Enter as follows: 5, n!
+To evaluate: factorial(6)*5-2
+        Enter as follows: 6, n!, *, 5, -, 2, =
+
+EXAMPLE 10: exponential (e<sup><small>x</small></sup>)
+To evaluate: e<sup><small>0</small></sup>
+        Enter as follows: 0, e<sup><small>x</small></sup>
+
+EXAMPLE 11: 10<sup><small>x</small></sup>
+To evaluate: 10<sup><small>2.5</small></sup>
+        Enter as follows: 2.5, 10<sup><small>x</small></sup>
+To evaluate: 10<sup><small>-0.509</small></sup>
+        Enter as follows: 10, ^, 0.509, +/-, =
+To evaluate: 10<sup><small>-2</small></sup>
+        Enter as follows: 10, ^, 2, +/-, ="
+    </string>
+</resources>
